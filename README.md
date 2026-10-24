@@ -4,7 +4,7 @@
 
 ### Construction Operations · Project Cost Control · Materials · Teams
 
-<img src="https://images.openai.com/static-rsc-4/X7c0ACf0xr7I5rc-5FgJvDlhas2kr9Qn470FJXYFlilYuE4JVBZBStyRUKv5Pt1VjROLflurE52OpmJ5i4hoqr2kY55YDWTRTUtIIXUtG_Yo6qRzebLihs86-gYDH1pBuWicNpRaVf7jSLb-3ZDITgzn8VaIcHeQ5ZR_RsEJOvDBHFX_UVePk2v6xwlD8eh2?purpose=inline" alt="Architectural blueprint of a city building under construction with crane, tools and dark blue technical contour lines" width="100%" />
+<img src="assets/construct-hero.svg" alt="CONSTRUCT OS — Build smarter. Control every project." width="100%" />
 
 [![Status](https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-9CCBFF?style=for-the-badge&labelColor=101827)](#development-status--статус-на-развој)
 [![Developer](https://img.shields.io/badge/BUILT_BY-PROCESS_IN-FFFFFF?style=for-the-badge&labelColor=101827)](https://processin.mk)
