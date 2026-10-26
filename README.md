@@ -68,6 +68,8 @@ CONSTRUCT OS is **construction-first**: project delivery and operational cost co
 
 ---
 
+[**Целосна македонска презентација на CONSTRUCT OS**](README.mk.md)
+
 ## 🇲🇰 MK — Софтвер за управување со градежни проекти и трошоци
 
 **CONSTRUCT OS** е платформа во развој од **[PROCESS IN](https://processin.mk)**, наменета за градежни компании, инвеститори, раководители на проекти и тимови на градилишта.
