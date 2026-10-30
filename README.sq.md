@@ -1,28 +1,20 @@
-[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
-
 <div align="center">
 
-# CONSTRUCT OS
+# Construct
 
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
+<img src="assets/construct-hero.svg" alt="Construct — prezantim vizual i produktit" width="100%" />
 
-<img src="assets/construct-hero.svg" alt="CONSTRUCT OS — Build smarter. Control every project." width="100%" />
+**Planifikoni. Siguroni. Zbatoni. Ndiqni. Kontrolloni. Dorëzoni.**
 
 [![Status](https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-9CCBFF?style=for-the-badge&labelColor=101827)](#development-status--статус-на-развој)
 [![Developer](https://img.shields.io/badge/BUILT_BY-PROCESS_IN-FFFFFF?style=for-the-badge&labelColor=101827)](https://processin.mk)
 [![Languages](https://img.shields.io/badge/PRODUCT_LANGUAGES-MK_·_EN_·_AL-B2D8FF?style=for-the-badge&labelColor=101827)](#languages--јазици)
 
-
-
-*Product vision · Public overview · Proprietary application source code is not included.*
-
-### Planifikoni. Siguroni. Zbatoni. Ndiqni. Kontrolloni. Dorëzoni.
-
-**Planifikoni. Siguroni. Zbatoni. Ndiqni. Kontrolloni. Dorëzoni.**
+**LIVE**
 
 </div>
-
----
 
 ## Softuer ndërtimi për punë reale
 
@@ -70,7 +62,7 @@ Ndërtimi, dorëzimi dhe kontrolli operacional i kostos janë thelbi. Shitja e p
 |---|---|
 | Produkti | CONSTRUCT OS |
 | Faqja zyrtare | [construct.mk](https://construct.mk) |
-| Kategoria | OS për operacione ndërtimi |
+| Kategoria | Projekte ndërtimi, materiale dhe kosto |
 | Statusi | LIVE |
 | Zhvilluesi | [PROCESS IN](https://processin.mk) |
 | Portofoli | [PROCESS IN](https://github.com/stambolce/process-in) |

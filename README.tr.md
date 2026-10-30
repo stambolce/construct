@@ -1,28 +1,20 @@
-[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
-
 <div align="center">
 
-# CONSTRUCT OS
+# Construct
 
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
+<img src="assets/construct-hero.svg" alt="Construct — ürün görsel sunumu" width="100%" />
 
-<img src="assets/construct-hero.svg" alt="CONSTRUCT OS — Build smarter. Control every project." width="100%" />
+**Planla. Tedarik et. Uygula. İzle. Kontrol et. Teslim et.**
 
 [![Status](https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-9CCBFF?style=for-the-badge&labelColor=101827)](#development-status--статус-на-развој)
 [![Developer](https://img.shields.io/badge/BUILT_BY-PROCESS_IN-FFFFFF?style=for-the-badge&labelColor=101827)](https://processin.mk)
 [![Languages](https://img.shields.io/badge/PRODUCT_LANGUAGES-MK_·_EN_·_AL-B2D8FF?style=for-the-badge&labelColor=101827)](#languages--јазици)
 
-
-
-*Product vision · Public overview · Proprietary application source code is not included.*
-
-### Planla. Tedarik et. Uygula. İzle. Kontrol et. Teslim et.
-
-**Planla. Tedarik et. Uygula. İzle. Kontrol et. Teslim et.**
+**LIVE**
 
 </div>
-
----
 
 ## Gerçek operasyonlar için inşaat yazılımı
 
@@ -70,7 +62,7 @@ Tablo mimariyi ve modül yönünü anlatır; her modülün her kullanıcıya etk
 |---|---|
 | Ürün | CONSTRUCT OS |
 | Resmî site | [construct.mk](https://construct.mk) |
-| Kategori | İnşaat operasyon işletim sistemi |
+| Kategori | İnşaat projeleri, malzeme ve maliyet yönetimi |
 | Durum | LIVE |
 | Geliştirici | [PROCESS IN](https://processin.mk) |
 | Portföy | [PROCESS IN](https://github.com/stambolce/process-in) |
