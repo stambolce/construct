@@ -1,3 +1,5 @@
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
+
 # CONSTRUCT OS — Софтвер за управување со градежни проекти
 
 ![CONSTRUCT OS — градежна оперативност и контрола на трошоци](assets/construct-hero.svg)
